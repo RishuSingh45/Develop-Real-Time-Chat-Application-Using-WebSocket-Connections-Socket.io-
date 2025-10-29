@@ -8,7 +8,6 @@ Here is a screenshot of the running application. Users can enter their name and 
 
 ![Screenshot of the chat application](https://github.com/ravishankar1810/Develop-Real-Time-Chat-Application-Using-WebSocket-Connections-Socket.io-/blob/0cf678624be6ca6567613c0dfcb6224a7f1aa2cb/Screenshot%202025-10-29%20051251.png)
 
-
 ---
 
 ## 🚀 What We Built
