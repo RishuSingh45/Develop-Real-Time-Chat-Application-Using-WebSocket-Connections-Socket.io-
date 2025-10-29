@@ -6,7 +6,7 @@ This project is a simple, real-time chat application built with a React frontend
 
 Here is a screenshot of the running application. Users can enter their name and send messages, which appear in the chat window with a timestamp.
 
-![Screenshot of the chat application](image_6d5607.png)
+![Screenshot of the chat application](https://github.com/ravishankar1810/Develop-Real-Time-Chat-Application-Using-WebSocket-Connections-Socket.io-/blob/0cf678624be6ca6567613c0dfcb6224a7f1aa2cb/Screenshot%202025-10-29%20051251.png)
 
 *(Note: You may need to move your screenshot file into the project and update this path).*
 
